@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Các dependency khác -->
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>17.0.0.1</version> <!-- Phiên bản của JavaFX -->
+    </dependency>
+    <!-- Các dependency khác -->
+</dependencies>
